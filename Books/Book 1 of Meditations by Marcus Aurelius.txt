@@ -2,7 +2,7 @@ Title: Meditations
 Subtitle: Book One
 Author: Marcus Aurelius
 Date: 180 AD
-Image: 130018707228500
+Image: 7801442109
 
 -- Page 1 --
 
