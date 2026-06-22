@@ -1,4 +1,8 @@
+Title: Your Title
+Subtitle: Your Subtitle
+Author: Your Name
+Date: 2026
+Image: 130018707228500
 
 -- Page 1 --
-
 Hello, this is a test for our new book system!
